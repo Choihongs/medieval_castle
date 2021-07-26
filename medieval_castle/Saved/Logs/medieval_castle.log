@@ -800,3 +800,166 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.26-08.28.10:132][  2]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.07.26-08.28.11:657][ 91]LogSlate: Window 'Message Log' being destroyed
 [2021.07.26-08.28.11:668][ 91]LogSlate: Window 'Message Log' being destroyed
+[2021.07.26-08.37.24:181][888]LogSlate: Took 0.001586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.07.26-08.37.46:914][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box001)
+[2021.07.26-08.37.47:697][277]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.07.26-08.37.56:495][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.07.26-08.39.39:886][112]MapCheck: New page: Map Check
+[2021.07.26-08.39.39:916][112]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.26-08.39.39:917][112]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.26-08.39.39:977][112]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.07.26-08.39.39:990][112]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.26-08.39.39:990][112]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.26-08.39.39:990][112]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.26-08.39.39:997][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.26-08.39.40:001][112]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.26-08.39.40:010][112]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.26-08.39.40:013][112]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.07.26-08.39.40:058][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 45
+[2021.07.26-08.39.40:058][112]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.26-08.39.40:062][112]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.26-08.39.40:065][112]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 50
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 45
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 39
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 38
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 33
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.26-08.39.42:909][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.07.26-08.39.42:909][112]TextureStreamingBuild: Display: Compiling optional shaders took 2.912 seconds.
+[2021.07.26-08.39.42:947][112]LogLevel: Display: Export Material TexCoord Scales took 0.037 seconds.
+[2021.07.26-08.39.42:948][112]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.07.26-08.39.42:951][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.26-08.39.42:958][112]LightingResults: New page: Lighting Build - 2021. 7. 27. 오전 2:39:42
+[2021.07.26-08.39.42:992][112]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.26-08.39.43:071][112]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.26-08.39.43:084][112]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.26-08.39.43:606][112]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.26-08.39.43:606][112]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5992
+[2021.07.26-08.39.48:434][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.26-08.39.48:434][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.26-08.39.48:435][112]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.26-08.39.48:435][112]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.26-08.39.48:435][112]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.26-08.39.48:688][112]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.26-08.39.48:688][112]MapCheck: New page: ThirdPersonExampleMap - 2021. 7. 27. 오전 2:39:48
+[2021.07.26-08.39.48:688][112]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.07.26-08.39.48:690][112]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.166ms to complete.
+[2021.07.26-08.39.48:693][112]LogEditorBuildUtils: Build time 0:08
+[2021.07.26-08.39.48:781][112]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.07.26-08.39.48:789][112]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2021.07.26-08.39.48:843][113]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.07.26-08.39.48:843][113]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.07.26-08.39.48:843][113]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.07.26-08.39.48:843][113]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.07.26-08.39.49:402][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.26-08.39.52:250][229]Job is a success!
+[2021.07.26-08.39.52:301][230]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:          0: 3.2% covering 100.0% of volume
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:          1: 12.9% covering 6.3% of volume
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:          2: 83.9% covering 0.6% of volume
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.26-08.39.52:399][230]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 31 bricks 	 100.0% (Persistent Level)
+[2021.07.26-08.39.52:650][230]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.07.26-08.39.52:650][230]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.07.26-08.39.52:651][230]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.07.26-08.39.52:651][230]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2021.07.26-08.39.52:651][230]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.07.26-08.39.52:651][230]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.07.26-08.39.52:780][230]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.07.26-08.39.52:780][230]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2021.07.26-08.39.52:780][230]Lightmass on COM: 2.57 sec total, 84 ms importing, 3 ms setup, 658 ms photons, 1.79 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 19.7 sec total, 3.55 sec processing.
+[2021.07.26-08.39.52:780][230]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 17 meshes in 2 LightmapResourceClusters (8.5 Meshes per cluster).
+[2021.07.26-08.39.52:788][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.26-08.39.52:831][230]LogStaticLightingSystem: Illumination: 9.81 sec (248 ms encoding lightmaps, 86 ms encoding shadowmaps)
+[2021.07.26-08.39.52:831][230]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.07.26-08.39.52:831][230]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.26-08.39.53:441][230]DumpUnbuiltLightIteractions
+[2021.07.26-08.39.53:441][230]Lights with unbuilt interactions: 0
+[2021.07.26-08.39.53:441][230]
+[2021.07.26-08.39.53:441][230]Primitives with unbuilt interactions: 0
+[2021.07.26-08.39.53:545][230]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.07.26-08.39.53:590][231]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.26-08.39.53:590][231]MapCheck: New page: ThirdPersonExampleMap - 2021. 7. 27. 오전 2:39:53
+[2021.07.26-08.39.53:591][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.414ms to complete.
+[2021.07.26-08.39.55:792][363]LogSlate: Window 'Message Log' being destroyed
+[2021.07.26-08.39.55:804][363]LogSlate: Window 'Message Log' being destroyed
+[2021.07.26-08.40.42:933][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.07.26-08.40.42:965][782]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap_Auto1A204EAF9437C22F160DC2EB6FFAC0C88.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.07.26-08.40.42:968][782]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2021.07.26-08.40.42:968][782]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2021.07.26-08.50.43:491][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.26-08.50.43:494][794]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.013
+[2021.07.26-08.51.30:706][108]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.07.26-08.51.30:778][112]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.07.26-08.51.50:384][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box010)
+[2021.07.26-08.52.37:065][660]LogStaticMesh: Building static mesh castle__3_...
+[2021.07.26-08.52.37:110][660]LogStaticMesh: Built static mesh [0.04s] /Game/koyerim/castle__3_.castle__3_
+[2021.07.26-08.52.37:413][676]LogActorFactory: Actor Factory created castle__3_
+[2021.07.26-08.52.38:180][718]LogActorFactory: Actor Factory created castle__3_
+[2021.07.26-08.52.39:359][787]Cmd: DELETE
+[2021.07.26-08.52.39:359][787]Cmd: ACTOR DELETE
+[2021.07.26-08.52.39:369][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-08.52.39:374][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.26-08.52.39:376][787]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.07.26-08.52.46:706][224]LogActorFactory: Actor Factory created castle__3_
+[2021.07.26-08.52.47:609][278]LogActorFactory: Actor Factory created castle__3_
+[2021.07.26-08.52.48:461][327]Cmd: DELETE
+[2021.07.26-08.52.48:461][327]Cmd: ACTOR DELETE
+[2021.07.26-08.52.48:463][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.26-08.52.48:468][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.26-08.52.48:469][327]LogEditorActor: Deleted 1 Actors (0.007 secs)
