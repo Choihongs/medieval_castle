@@ -1006,3 +1006,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-08.54.22:251][619]FBXImport: Warning: medival_jiwon_Box003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
 [2021.08.04-08.54.27:874][949]LogSlate: Window 'Message Log' being destroyed
 [2021.08.04-08.54.27:881][949]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.56.58:022][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.08.04-08.56.58:158][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap_Auto1514CADEF4CFA81C2520C308CCA719DB5.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.08.04-08.56.58:163][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.149
+[2021.08.04-08.56.58:163][821]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.149
+[2021.08.04-08.56.58:163][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BaekJiwon/medival_jiwon_Box005] ([1] browsable assets)...
+[2021.08.04-08.56.58:186][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BaekJiwon/medival_jiwon_Box005.medival_jiwon_Box005]
+[2021.08.04-08.56.58:186][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/BaekJiwon/medival_jiwon_Box005]
+[2021.08.04-08.56.58:192][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box005_Auto129EE4E944FE5454A7CDDF4A4BCAAB33C.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/BaekJiwon/medival_jiwon_Box005_Auto1.uasset'
+[2021.08.04-08.56.58:193][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BaekJiwon/medival_jiwon_Box001] ([1] browsable assets)...
+[2021.08.04-08.56.58:199][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BaekJiwon/medival_jiwon_Box001.medival_jiwon_Box001]
+[2021.08.04-08.56.58:199][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/BaekJiwon/medival_jiwon_Box001]
+[2021.08.04-08.56.58:212][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box001_Auto1471343C942D3F7C3F19EE3A3F8622269.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/BaekJiwon/medival_jiwon_Box001_Auto1.uasset'
+[2021.08.04-08.56.58:213][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BaekJiwon/medival_jiwon_Box002] ([1] browsable assets)...
+[2021.08.04-08.56.58:224][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BaekJiwon/medival_jiwon_Box002.medival_jiwon_Box002]
+[2021.08.04-08.56.58:224][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/BaekJiwon/medival_jiwon_Box002]
+[2021.08.04-08.56.58:231][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box002_Auto18D3535DE4CE734B6322B3FABDEB17CCA.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/BaekJiwon/medival_jiwon_Box002_Auto1.uasset'
+[2021.08.04-08.56.58:232][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BaekJiwon/medival_jiwon_Box003] ([1] browsable assets)...
+[2021.08.04-08.56.58:242][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BaekJiwon/medival_jiwon_Box003.medival_jiwon_Box003]
+[2021.08.04-08.56.58:242][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/BaekJiwon/medival_jiwon_Box003]
+[2021.08.04-08.56.58:250][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box003_Auto1EAAD629E4950D0DD0CFA2593E94882B9.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/BaekJiwon/medival_jiwon_Box003_Auto1.uasset'
+[2021.08.04-08.56.58:251][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BaekJiwon/medival_jiwon_Box004] ([1] browsable assets)...
+[2021.08.04-08.56.58:261][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BaekJiwon/medival_jiwon_Box004.medival_jiwon_Box004]
+[2021.08.04-08.56.58:261][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/BaekJiwon/medival_jiwon_Box004]
+[2021.08.04-08.56.58:267][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box004_Auto17DFAAC5940061EB668145CAD6B822FCA.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/BaekJiwon/medival_jiwon_Box004_Auto1.uasset'
+[2021.08.04-08.56.58:268][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/house/medival_jiwon_Box005] ([1] browsable assets)...
+[2021.08.04-08.56.58:280][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/house/medival_jiwon_Box005.medival_jiwon_Box005]
+[2021.08.04-08.56.58:280][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/house/medival_jiwon_Box005]
+[2021.08.04-08.56.58:285][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box005_Auto12F7CC01D432B16791B16B4A1B35230F9.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/house/medival_jiwon_Box005_Auto1.uasset'
+[2021.08.04-08.56.58:286][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/house/medival_jiwon_Box001] ([1] browsable assets)...
+[2021.08.04-08.56.58:298][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/house/medival_jiwon_Box001.medival_jiwon_Box001]
+[2021.08.04-08.56.58:298][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/house/medival_jiwon_Box001]
+[2021.08.04-08.56.58:305][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box001_Auto161CC929441D8B7AC68134CBA5062C4A1.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/house/medival_jiwon_Box001_Auto1.uasset'
+[2021.08.04-08.56.58:306][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/house/medival_jiwon_Box002] ([1] browsable assets)...
+[2021.08.04-08.56.58:321][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/house/medival_jiwon_Box002.medival_jiwon_Box002]
+[2021.08.04-08.56.58:321][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/house/medival_jiwon_Box002]
+[2021.08.04-08.56.58:330][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box002_Auto15BAEA71542B63F78A1DDAB9B666BFB4C.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/house/medival_jiwon_Box002_Auto1.uasset'
+[2021.08.04-08.56.58:332][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/house/medival_jiwon_Box003] ([1] browsable assets)...
+[2021.08.04-08.56.58:343][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/house/medival_jiwon_Box003.medival_jiwon_Box003]
+[2021.08.04-08.56.58:343][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/house/medival_jiwon_Box003]
+[2021.08.04-08.56.58:356][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box003_Auto1292B7CE84123AC2B0F2102B2F3445B9C.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/house/medival_jiwon_Box003_Auto1.uasset'
+[2021.08.04-08.56.58:357][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/house/medival_jiwon_Box004] ([1] browsable assets)...
+[2021.08.04-08.56.58:374][821]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/house/medival_jiwon_Box004.medival_jiwon_Box004]
+[2021.08.04-08.56.58:374][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/house/medival_jiwon_Box004]
+[2021.08.04-08.56.58:381][821]LogSavePackage: Moving '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/medival_jiwon_Box004_Auto146E602664B8EA87B6E4449B071C0D2C3.tmp' to '../../../../../../Users/COM/Documents/GitHub/medieval_castle/medieval_castle/Saved/Autosaves/Game/house/medival_jiwon_Box004_Auto1.uasset'
+[2021.08.04-08.56.58:382][821]LogFileHelpers: Auto-saving content packages took 0.220
+[2021.08.04-09.26.48:037][185]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.04-10.10.45:184][185]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-10.10.45:184][185]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-10.10.45:399][186]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.04-10.10.45:453][186]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-10.10.45:453][186]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7FBE91A1-4D91-9400-80AB-F79753FF0B0E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=3b84d30a475e18b4e6179a8b5ed4dc3e%7Ce6161cad84cc4e789c8cf1c256b26bf4%7C8f3e40ea-f347-4ba3-acef-dfd59e8fd8ae&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x29347d53eb0 [can pipeline])
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.35.225) port 443 (#0))
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: 000002931975E400: libcurl info message cache 7 (Closing connection 0)
+[2021.08.04-10.10.45:732][188]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7FBE91A1-4D91-9400-80AB-F79753FF0B0E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=3b84d30a475e18b4e6179a8b5ed4dc3e%7Ce6161cad84cc4e789c8cf1c256b26bf4%7C8f3e40ea-f347-4ba3-acef-dfd59e8fd8ae&AppEnvironment=datacollector-binary&UploadType=eteventstream
