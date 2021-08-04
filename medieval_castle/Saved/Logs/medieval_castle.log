@@ -947,3 +947,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-08.28.56:482][427]LogContentValidation: Display: Validating StaticMesh /Game/house/kyr_house_1.kyr_house_1
 [2021.08.04-08.28.56:482][427]LogContentValidation: Display: Validating StaticMesh /Game/house/kyr_house_3.kyr_house_3
 [2021.08.04-08.28.56:482][427]LogContentValidation: Display: Validating StaticMesh /Game/house/kyr_house_2.kyr_house_2
+[2021.08.04-08.37.30:178][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (castle__3_3)
+[2021.08.04-08.37.32:108][ 17]Cmd: TRANSACTION UNDO
+[2021.08.04-08.37.32:108][ 17]LogEditorTransaction: Undo Move Actors
+[2021.08.04-08.39.00:905][151]LogActorFactory: Actor Factory created kyr_house_full
+[2021.08.04-08.39.01:896][266]LogActorFactory: Actor Factory created kyr_house_full
+[2021.08.04-08.39.07:551][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_full)
+[2021.08.04-08.39.08:551][ 55]Cmd: DELETE
+[2021.08.04-08.39.08:551][ 55]Cmd: ACTOR DELETE
+[2021.08.04-08.39.08:560][ 55]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.04-08.39.08:565][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.04-08.39.08:569][ 55]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.08.04-08.39.25:793][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.04-08.39.27:106][924]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.04-08.39.27:124][924]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/house/kyr_house_full.kyr_house_full
+[2021.08.04-08.39.27:273][924]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.08.04-08.39.27:309][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.04-08.39.27:314][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.04-08.39.27:318][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.08.04-08.39.29:473][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.04-08.39.31:268][146]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-08.39.31:306][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.04-08.39.31:488][146]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap72B34C654CEB4052BCBD7793D50CFB1A.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.04-08.39.31:493][146]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.192
+[2021.08.04-08.39.31:508][146]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.08.04-08.39.31:508][146]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.04-08.39.33:107][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.04-08.39.33:289][318]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap15BB5D6B45B352EE9705ABA438DA29DB.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.04-08.39.33:307][318]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.08.04-08.39.33:307][318]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.04-08.39.45:166][714]LogActorFactory: Actor Factory created kyr_house_3
+[2021.08.04-08.39.46:043][818]LogActorFactory: Actor Factory created kyr_house_3
+[2021.08.04-08.39.49:364][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box013)
+[2021.08.04-08.39.50:761][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_4)
