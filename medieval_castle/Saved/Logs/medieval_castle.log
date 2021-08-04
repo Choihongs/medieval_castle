@@ -983,3 +983,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-08.50.18:522][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2021.08.04-08.50.21:251][219]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
 [2021.08.04-08.50.22:839][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box41)
+[2021.08.04-08.54.19:696][619]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\COM\Desktop\2차 프로젝트\medival_jiwon.fbx)
+[2021.08.04-08.54.19:705][619]LogFbx: Loading FBX Scene from C:\Users\COM\Desktop\2차 프로젝트\medival_jiwon.fbx
+[2021.08.04-08.54.19:710][619]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.54.22:201][619]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-08.54.22:216][619]LogStaticMesh: Building static mesh medival_jiwon_Box001...
+[2021.08.04-08.54.22:219][619]LogStaticMesh: Built static mesh [0.00s] /Game/house/medival_jiwon_Box001.medival_jiwon_Box001
+[2021.08.04-08.54.22:222][619]LogStaticMesh: Building static mesh medival_jiwon_Box002...
+[2021.08.04-08.54.22:225][619]LogStaticMesh: Built static mesh [0.00s] /Game/house/medival_jiwon_Box002.medival_jiwon_Box002
+[2021.08.04-08.54.22:229][619]LogStaticMesh: Building static mesh medival_jiwon_Box003...
+[2021.08.04-08.54.22:232][619]LogStaticMesh: Built static mesh [0.00s] /Game/house/medival_jiwon_Box003.medival_jiwon_Box003
+[2021.08.04-08.54.22:232][619]LogStaticMesh: Warning: medival_jiwon_Box003 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.08.04-08.54.22:232][619]LogStaticMesh: Warning: medival_jiwon_Box003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.08.04-08.54.22:235][619]LogFbx: Display: Triangulating static mesh Box004
+[2021.08.04-08.54.22:236][619]LogStaticMesh: Building static mesh medival_jiwon_Box004...
+[2021.08.04-08.54.22:239][619]LogStaticMesh: Built static mesh [0.00s] /Game/house/medival_jiwon_Box004.medival_jiwon_Box004
+[2021.08.04-08.54.22:242][619]LogFbx: Display: Triangulating static mesh Box005
+[2021.08.04-08.54.22:242][619]LogStaticMesh: Building static mesh medival_jiwon_Box005...
+[2021.08.04-08.54.22:245][619]LogStaticMesh: Built static mesh [0.00s] /Game/house/medival_jiwon_Box005.medival_jiwon_Box005
+[2021.08.04-08.54.22:251][619]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.54.22:251][619]FBXImport: Warning: medival_jiwon_Box003 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.08.04-08.54.22:251][619]FBXImport: Warning: medival_jiwon_Box003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.08.04-08.54.27:874][949]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.54.27:881][949]LogSlate: Window 'Message Log' being destroyed
