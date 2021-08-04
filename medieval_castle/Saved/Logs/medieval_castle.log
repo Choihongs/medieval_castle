@@ -931,3 +931,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-08.26.40:932][670]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap8C35375941BBCD4F774A26A9954CB906.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.08.04-08.26.40:951][670]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.08.04-08.26.40:951][670]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.04-08.28.43:536][130]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.08.04-08.28.46:096][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.08.04-08.28.56:293][427]LogSlate: Window 'Save Content' being destroyed
+[2021.08.04-08.28.56:351][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/house/kyr_house_1" FILE="D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_1.uasset" SILENT=true
+[2021.08.04-08.28.56:359][427]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/kyr_house_125990FDE43EB561BD9C006825DB8B357.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_1.uasset'
+[2021.08.04-08.28.56:387][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/house/kyr_house_2" FILE="D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_2.uasset" SILENT=true
+[2021.08.04-08.28.56:394][427]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/kyr_house_24EA52B444C56A735D51A7793EC150CDC.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_2.uasset'
+[2021.08.04-08.28.56:423][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/house/kyr_house_3" FILE="D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_3.uasset" SILENT=true
+[2021.08.04-08.28.56:430][427]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/kyr_house_3AA81AE8D4EB6AE03102B75999040ED64.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_3.uasset'
+[2021.08.04-08.28.56:456][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/house/kyr_house_full" FILE="D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_full.uasset" SILENT=true
+[2021.08.04-08.28.56:464][427]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/kyr_house_full4CD88BE04D2DDA3C09D365ADB956CC93.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/house/kyr_house_full.uasset'
+[2021.08.04-08.28.56:481][427]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-08.28.56:482][427]LogContentValidation: Display: Validating StaticMesh /Game/house/kyr_house_full.kyr_house_full
+[2021.08.04-08.28.56:482][427]LogContentValidation: Display: Validating StaticMesh /Game/house/kyr_house_1.kyr_house_1
+[2021.08.04-08.28.56:482][427]LogContentValidation: Display: Validating StaticMesh /Game/house/kyr_house_3.kyr_house_3
+[2021.08.04-08.28.56:482][427]LogContentValidation: Display: Validating StaticMesh /Game/house/kyr_house_2.kyr_house_2
