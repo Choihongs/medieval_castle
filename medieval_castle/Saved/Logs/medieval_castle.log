@@ -927,3 +927,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-08.22.00:022][921]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap6D86D2DC403E56F5B73272B967439E43.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2021.08.04-08.22.00:041][921]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.08.04-08.22.00:041][921]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.04-08.26.40:750][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.04-08.26.40:932][670]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap8C35375941BBCD4F774A26A9954CB906.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.04-08.26.40:951][670]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.08.04-08.26.40:951][670]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
