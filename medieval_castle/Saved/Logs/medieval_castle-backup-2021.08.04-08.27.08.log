@@ -1,0 +1,933 @@
+﻿Log file open, 08/04/21 17:05:11
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: medieval_castle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.327239
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+[2021.08.04-08.05.12:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.04-08.05.12:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+[2021.08.04-08.05.12:515][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+[2021.08.04-08.05.12:571][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.04-08.05.12:571][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.04-08.05.12:572][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:572][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.04-08.05.12:573][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.04-08.05.12:573][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.04-08.05.12:573][  0]LogHAL: Display: Platform has ~ 16 GB [17111224320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.04-08.05.12:573][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.04-08.05.12:573][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.04-08.05.12:573][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.04-08.05.12:574][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Engine.ini]
+[2021.08.04-08.05.12:574][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/git/koyerim/medieval_castle/medieval_castle/Saved/Config/Windows/Editor.ini]
+[2021.08.04-08.05.12:574][  0]LogInit: Computer: DESKTOP-L0QE7EB
+[2021.08.04-08.05.12:574][  0]LogInit: User: kch
+[2021.08.04-08.05.12:574][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.04-08.05.12:574][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.04-08.05.12:574][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.04-08.05.12:574][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.04-08.05.12:574][  0]LogMemory: Process Physical Memory: 138.54 MB used, 138.54 MB peak
+[2021.08.04-08.05.12:574][  0]LogMemory: Process Virtual Memory: 110.93 MB used, 110.93 MB peak
+[2021.08.04-08.05.12:574][  0]LogMemory: Physical Memory: 6999.90 MB used,  9318.63 MB free, 16318.54 MB total
+[2021.08.04-08.05.12:574][  0]LogMemory: Virtual Memory: 134212272.00 MB used,  5452.84 MB free, 134217728.00 MB total
+[2021.08.04-08.05.12:589][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.04-08.05.12:745][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.04-08.05.12:746][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.08.04-08.05.12:746][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.08.04-08.05.12:926][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.04-08.05.12:980][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.04-08.05.13:001][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.04-08.05.13:001][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.04-08.05.13:244][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.04-08.05.13:244][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.04-08.05.13:244][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.04-08.05.13:244][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.04-08.05.13:379][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2021.08.04-08.05.13:379][  0]LogD3D11RHI:       5991/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.04-08.05.13:382][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.04-08.05.13:382][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.04-08.05.13:382][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.04-08.05.13:387][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.04-08.05.13:387][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.04-08.05.13:387][  0]LogWindows: EnumDisplayDevices:
+[2021.08.04-08.05.13:388][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:1)
+[2021.08.04-08.05.13:389][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2021.08.04-08.05.13:390][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2021.08.04-08.05.13:391][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2021.08.04-08.05.13:392][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.04-08.05.13:392][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2021.08.04-08.05.13:392][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.08.04-08.05.13:392][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.08.04-08.05.13:392][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.08.04-08.05.13:486][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.04-08.05.13:486][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.04-08.05.13:486][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.04-08.05.13:509][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.04-08.05.13:511][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.04-08.05.14:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.04-08.05.14:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.04-08.05.14:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.04-08.05.14:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.04-08.05.14:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.04-08.05.14:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.04-08.05.14:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.04-08.05.14:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.04-08.05.14:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.04-08.05.14:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.04-08.05.14:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.04-08.05.14:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.04-08.05.14:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.04-08.05.14:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.04-08.05.14:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.04-08.05.14:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.04-08.05.14:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.04-08.05.14:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.04-08.05.14:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.04-08.05.14:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.04-08.05.14:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.04-08.05.14:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.04-08.05.14:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.04-08.05.14:282][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.04-08.05.14:297][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.04-08.05.14:416][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.04-08.05.14:416][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (D:/git/koyerim/medieval_castle/medieval_castle/Intermediate/Shaders/WorkingDirectory/8052/).
+[2021.08.04-08.05.14:416][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kch/AppData/Local/Temp/UnrealShaderWorkingDir/B299DDD14C764AAAD11AC3AAD4B5F2F8/'.
+[2021.08.04-08.05.14:416][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.04-08.05.14:416][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.04-08.05.15:174][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.04-08.05.15:221][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/kch/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.04-08.05.15:221][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kch/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.04-08.05.15:221][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/git/koyerim/medieval_castle/medieval_castle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.04-08.05.15:221][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.04-08.05.15:221][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/git/koyerim/medieval_castle/medieval_castle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.04-08.05.15:221][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.04-08.05.15:233][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.04-08.05.15:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.04-08.05.15:233][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.04-08.05.15:243][  0]LogDerivedDataCache: Speed tests for C:/Users/kch/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.04-08.05.15:243][  0]LogDerivedDataCache: Display: Performance to C:/Users/kch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=536.00MBs, RandomWriteSpeed=116.62MBs. Assigned SpeedClass 'Local'
+[2021.08.04-08.05.15:243][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.04-08.05.15:243][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.04-08.05.15:243][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.04-08.05.15:287][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.04-08.05.15:287][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.04-08.05.15:316][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.08.04-08.05.15:529][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.04-08.05.15:529][  0]LogInit: Active device profile: [000001A57287A200][000001A57147E240 49] Windows
+[2021.08.04-08.05.15:529][  0]LogInit: Profiles: [000001A57287A200][000001A57147E240 49] Windows, [000001A572806200][000001A5714863C0 49] WindowsNoEditor, [000001A572879600][000001A57148A540 49] WindowsServer, [000001A572805200][000001A57148E6C0 49] WindowsClient, [000001A572879D00][000001A571492840 49] IOS, [000001A572806600][000001A5714969C0 49] iPadAir, [000001A57287A500][000001A57149AB40 49] iPadAir2, [000001A5727B2000][000001A5714A2E00 49] IPadPro, [000001A5727B2100][000001A57149EE40 49] iPadAir3, [000001A572805300][000001A5714A6FC0 49] iPadAir4, [000001A5727B3900][000001A5714AB140 49] iPadMini2, [000001A572804500][000001A5714AF2C0 49] iPadMini3, [000001A5727B1400][000001A5714B3440 49] iPadMini4, [000001A572806A00][000001A5714B75C0 49] iPadMini5, [000001A5727C1900][000001A5714BB800 49] iPhone6, [000001A5727C1A00][000001A571483840 49] iPodTouch6, [000001A5727B3E00][000001A5714C3A80 49] iPhone7, [000001A5727B1F00][000001A5714BFAC0 49] iPodTouch7, [000001A5727C3100][000001A5714CBC40 49] iPhone5S, [000001A5727B3100][000001A5714CE100 49] iPhone6Plus, [000001A5727C1600][000001A5714D2280 49] iPhone6S, [000001A5727B0E00][000001A5714D6400 49] iPhone6SPlus, [000001A5727C0700][000001A5714DA580 49] iPhone7Plus, [000001A5727B0A00][000001A5714DE700 49] iPhoneSE, [000001A5727C2900][000001A5714E2880 49] iPhone8, [000001A5727B2800][000001A5714E6A00 49] iPhone8Plus, [000001A5727C0500][000001A5714EAB80 49] iPhoneX, [000001A5727B2F00][000001A5714EED00 49] iPhoneXS, [000001A5727C2600][000001A5714F2E80 49] iPhoneXSMax, [000001A5727B3B00][000001A5714F7000 49] iPhoneXR, [000001A5727C0D00][000001A5714FB180 49] iPhone11, [000001A5727B2700][000001A5532B3300 49] iPhone11Pro, [000001A5727C2700][000001A5532B7480 49] iPhone11ProMax, [000001A5727B3600][000001A5532BB600 49] iPhoneSE2, [000001A5727C2800][000001A5714C7740 49] iPhone12Mini, [000001A5727B2400][000001A5532BF880 49] iPhone12, [000001A5727C2100][000001A5532C39C0 49] iPhone12Pro, [000001A5727B1E00][000001A5532C7B00 49] iPhone12ProMax, [000001A57287A700][000001A5532CFC80 49] iPadPro105, [000001A5727B2D00][000001A5532D2140 49] iPadPro129, [000001A57287AD00][000001A5532D62C0 49] iPadPro97, [000001A5727B0400][000001A5532DA440 49] iPadPro2_129, [000001A57287B600][000001A5532DE5C0 49] iPad5, [000001A5727B2300][000001A5532E2740 49] iPad6, [000001A57287AA00][000001A5532E68C0 49] iPad7, [000001A5727B2E00][000001A5532EAA40 49] iPad8, [000001A572879F00][000001A5532EEBC0 49] iPadPro11, [000001A5727B1100][000001A5532F2D40 49] iPadPro2_11, [000001A572878500][000001A5532F6EC0 49] iPadPro3_129, [000001A5727B3700][000001A5532FB040 49] iPadPro4_129, [000001A572879100][000001A5532FF1C0 49] AppleTV, [000001A5727B3300][000001A54F591340 49] AppleTV4K, [000001A572878D00][000001A54F5954C0 49] TVOS, [000001A5727B0300][000001A54F599640 49] Mac, [000001A57287A400][000001A54F59D7C0 49] MacClient, [000001A5727B0700][000001A5532CB900 49] MacNoEditor, [000001A572878300][000001A54F5A1A40 49] MacServer, [000001A5727B2B00][000001A54F5A5B80 49] Linux, [000001A572879300][000001A54F5ADD00 49] LinuxAArch64, [000001A5727B1600][000001A54F5B01C0 49] LinuxNoEditor, [000001A572879500][000001A54F5B4340 49] LinuxAArch64NoEditor, [000001A5727B0D00][000001A54F5B84C0 49] LinuxClient, [000001A572878800][000001A573510640 49] LinuxAArch64Client, [000001A5727B0500][000001A5735147C0 49] LinuxServer, [000001A572878100][000001A573518940 49] LinuxAArch64Server, [000001A5727B2200][000001A57351CAC0 49] Android, [000001A57287B100][000001A573520C40 49] Android_Low, [000001A5727B1800][000001A573524DC0 49] Android_Mid, [000001A57287B300][000001A573528F40 49] Android_High, [000001A5727B1C00][000001A57352D0C0 49] Android_Default, [000001A572879700][000001A573531240 49] Android_Adreno4xx, [000001A5727B2900][000001A5735353C0 49] Android_Adreno5xx_Low, [000001A572879B00][000001A573539540 49] Android_Adreno5xx, [000001A5727B3F00][000001A57353D6C0 49] Android_Adreno6xx, [000001A572878900][000001A573541840 49] Android_Adreno6xx_Vulkan, [000001A5727B1700][000001A54F5A9980 49] Android_Mali_T6xx, [000001A572879400][000001A573545AC0 49] Android_Mali_T7xx, [000001A5727B1D00][000001A573549C00 49] Android_Mali_T8xx, [000001A572878700][000001A5735500C0 49] Android_Mali_G71, [000001A572806700][000001A573554240 49] Android_Mali_G72, [000001A5727C2C00][000001A5735583C0 49] Android_Mali_G72_Vulkan, [000001A572806D00][000001A57355C540 49] Android_Mali_G76, [000001A5727C0300][000001A5735606C0 49] Android_Mali_G76_Vulkan, [000001A572806900][000001A573564840 49] Android_Mali_G77, [000001A5727C0200][000001A5735689C0 49] Android_Mali_G77_Vulkan, [000001A572806500][000001A57356CB40 49] Android_Vulkan_SM5, [000001A5727C0400][000001A573570CC0 49] Android_PowerVR_G6xxx, [000001A572807200][000001A573574E40 49] Android_PowerVR_GT7xxx, [000001A5727C3F00][000001A573578FC0 49] Android_PowerVR_GE8xxx, [000001A572807600][000001A57357D140 49] Android_PowerVR_GM9xxx, [000001A5727C3400][000001A5735812C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001A572805800][000001A573585440 49] Android_TegraK1, [000001A5727C3B00][000001A5735895C0 49] Android_Unknown_Vulkan, [000001A572807000][000001A57358D740 49] Lumin, [000001A5727C1700][000001A5735918C0 49] Lumin_Desktop, [000001A572806300][000001A57354DA00 49] HoloLens, 
+[2021.08.04-08.05.15:658][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.04-08.05.15:658][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.04-08.05.15:658][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.04-08.05.15:658][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.04-08.05.15:658][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.04-08.05.15:680][  0]LogNetVersion: medieval_castle 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3246627867)
+[2021.08.04-08.05.16:135][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.04-08.05.16:238][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.102950 seconds
+[2021.08.04-08.05.16:243][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.04-08.05.16:243][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.04-08.05.16:243][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.04-08.05.16:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.04-08.05.16:811][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.04-08.05.17:002][  0]SourceControl: Source control is disabled
+[2021.08.04-08.05.17:002][  0]SourceControl: Source control is disabled
+[2021.08.04-08.05.17:008][  0]SourceControl: Source control is disabled
+[2021.08.04-08.05.17:027][  0]SourceControl: Source control is disabled
+[2021.08.04-08.05.17:043][  0]SourceControl: Source control is disabled
+[2021.08.04-08.05.17:053][  0]LogUProjectInfo: Found projects:
+[2021.08.04-08.05.17:367][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.04-08.05.17:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.04-08.05.17:403][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.04-08.05.17:482][  0]LogCollectionManager: Loaded 0 collections in 0.001661 seconds
+[2021.08.04-08.05.17:516][  0]LogFileCache: Scanning file cache for directory 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/Collections/' took 0.00s
+[2021.08.04-08.05.17:516][  0]LogFileCache: Scanning file cache for directory 'D:/git/koyerim/medieval_castle/medieval_castle/Content/Developers/kch/Collections/' took 0.00s
+[2021.08.04-08.05.17:516][  0]LogFileCache: Scanning file cache for directory 'D:/git/koyerim/medieval_castle/medieval_castle/Content/Collections/' took 0.00s
+[2021.08.04-08.05.17:516][  0]LogOcInput: OculusInput pre-init called
+[2021.08.04-08.05.17:536][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.04-08.05.17:536][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.04-08.05.17:593][  0]LogEngine: Initializing Engine...
+[2021.08.04-08.05.17:594][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.04-08.05.17:594][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.04-08.05.17:595][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.04-08.05.17:694][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.04-08.05.17:704][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.04-08.05.17:717][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.04-08.05.17:724][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.04-08.05.17:724][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.04-08.05.17:724][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-08.05.17:724][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-08.05.17:724][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-08.05.17:724][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-08.05.17:724][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-08.05.17:724][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-08.05.17:724][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-08.05.17:724][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-08.05.17:724][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-08.05.17:725][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-08.05.17:760][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-08.05.17:760][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-08.05.17:846][  0]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2021.08.04-08.05.17:849][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-08.05.17:851][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-08.05.17:851][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-08.05.17:852][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-08.05.17:852][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-08.05.17:852][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-08.05.17:853][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-08.05.17:853][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-08.05.17:853][  0]LogInit: FAudioDevice initialized.
+[2021.08.04-08.05.17:853][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.04-08.05.17:853][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.04-08.05.17:923][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/kch/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.04-08.05.17:923][  0]LogInit: Texture streaming: Enabled
+[2021.08.04-08.05.17:942][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.04-08.05.17:951][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.04-08.05.17:951][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.04-08.05.17:958][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.04-08.05.17:986][  0]LogInit: Transaction tracking system initialized
+[2021.08.04-08.05.18:024][  0]BlueprintLog: New page: Editor Load
+[2021.08.04-08.05.18:140][  0]LocalizationService: Localization service is disabled
+[2021.08.04-08.05.18:180][  0]TimingProfiler: Initialize
+[2021.08.04-08.05.18:180][  0]TimingProfiler: OnSessionChanged
+[2021.08.04-08.05.18:180][  0]LoadingProfiler: Initialize
+[2021.08.04-08.05.18:180][  0]LoadingProfiler: OnSessionChanged
+[2021.08.04-08.05.18:180][  0]NetworkingProfiler: Initialize
+[2021.08.04-08.05.18:180][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.04-08.05.18:180][  0]MemoryProfiler: Initialize
+[2021.08.04-08.05.18:181][  0]MemoryProfiler: OnSessionChanged
+[2021.08.04-08.05.18:358][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.04-08.05.18:358][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.04-08.05.18:594][  0]LogFileCache: Scanning file cache for directory 'D:/git/koyerim/medieval_castle/medieval_castle/Content/' took 0.01s
+[2021.08.04-08.05.18:824][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.04-08.05.18:830][  0]SourceControl: Source control is disabled
+[2021.08.04-08.05.18:831][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.903
+[2021.08.04-08.05.18:831][  0]Cmd: MAP LOAD FILE="D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-08.05.18:890][  0]LightingResults: New page: Lighting Build
+[2021.08.04-08.05.18:891][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-08.05.18:891][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-08.05.18:891][  0]MapCheck: New page: Map Check
+[2021.08.04-08.05.18:891][  0]LightingResults: New page: Lighting Build
+[2021.08.04-08.05.18:898][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.04-08.05.20:174][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.08.04-08.05.20:175][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.04-08.05.20:192][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-08.05.20:201][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.04-08.05.20:201][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-08.05.20:202][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.08.04-08.05.20:202][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.371
+[2021.08.04-08.05.20:203][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.276
+[2021.08.04-08.05.20:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-08.05.20:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-08.05.20:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-08.05.20:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-08.05.20:408][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3601 classes and 859 folders.
+[2021.08.04-08.05.20:410][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.04-08.05.20:415][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.04-08.05.20:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-08.05.20:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.04-08.05.20:417][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.04-08.05.20:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.04-08.05.20:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.04-08.05.20:419][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.04-08.05.20:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.04-08.05.20:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.04-08.05.20:420][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-08.05.20:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-08.05.20:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.04-08.05.20:422][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.04-08.05.20:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.04-08.05.20:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.04-08.05.20:425][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.04-08.05.20:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.04-08.05.20:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.04-08.05.20:426][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.04-08.05.20:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.04-08.05.20:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.04-08.05.20:428][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.04-08.05.20:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.04-08.05.20:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.04-08.05.20:429][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.04-08.05.20:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.04-08.05.20:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.04-08.05.20:431][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.04-08.05.20:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.04-08.05.20:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.04-08.05.20:433][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.04-08.05.20:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.04-08.05.20:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.04-08.05.20:435][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.04-08.05.20:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.04-08.05.20:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.04-08.05.20:437][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-08.05.20:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-08.05.20:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.04-08.05.20:439][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.04-08.05.20:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.04-08.05.20:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.04-08.05.20:441][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.04-08.05.20:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.04-08.05.20:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.04-08.05.20:443][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.04-08.05.20:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-08.05.20:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.08.04-08.05.20:445][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.04-08.05.20:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.04-08.05.20:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.04-08.05.20:448][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.04-08.05.20:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.04-08.05.20:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.08.04-08.05.20:450][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-08.05.20:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-08.05.20:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.08.04-08.05.20:452][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-08.05.20:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-08.05.20:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.08.04-08.05.20:454][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.04-08.05.20:454][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-08.05.20:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.08.04-08.05.20:456][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.04-08.05.20:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.04-08.05.20:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.08.04-08.05.20:457][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.04-08.05.20:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.04-08.05.20:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.08.04-08.05.20:459][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.04-08.05.20:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.04-08.05.20:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.08.04-08.05.20:461][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-08.05.20:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-08.05.20:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.08.04-08.05.20:463][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.04-08.05.20:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-08.05.20:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.04-08.05.20:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.08.04-08.05.20:587][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.04-08.05.20:588][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.04-08.05.20:696][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.04-08.05.20:698][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.04-08.05.20:703][  0]LogSlate: Took 0.001418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.04-08.05.20:808][  0]LogRenderer: Reallocating scene render targets to support 1616x584 Format 10 NumSamples 1 (Frame:1).
+[2021.08.04-08.05.20:908][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.04-08.05.20:908][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.04-08.05.20:908][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.08.04-08.05.20:908][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.04-08.05.20:908][  0]LogLoad: (Engine Initialization) Total time: 9.98 seconds
+[2021.08.04-08.05.20:908][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.04-08.05.20:908][  0]LogInit: First time updating LLM stats...
+[2021.08.04-08.05.20:946][  0]LogAssetRegistry: Asset discovery search completed in 5.6316 seconds
+[2021.08.04-08.05.20:947][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.08.04-08.05.20:975][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.04-08.05.21:169][  2]LogSlate: Took 0.001175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.04-08.05.31:059][944]LogSlate: Took 0.002019 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.04-08.08.50:319][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box41)
+[2021.08.04-08.09.16:649][378]LogTexture: Display: Building textures: medieval_town21 (AutoDXT, 400X400)
+[2021.08.04-08.09.16:654][378]LogSlate: Took 0.000423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.04-08.09.16:668][378]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/BaekJiwon/medieval_town21.medieval_town21
+[2021.08.04-08.09.16:681][378]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.08.04-08.09.18:798][543]LogSlate: Window 'medieval_town21' being destroyed
+[2021.08.04-08.09.18:811][543]LogSlate: Window 'medieval_town21' being destroyed
+[2021.08.04-08.11.02:204][295]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\team_house\kyr_house_1.fbx)
+[2021.08.04-08.11.02:231][295]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\team_house\kyr_house_1.fbx
+[2021.08.04-08.11.02:240][295]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.11.03:391][295]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-08.11.03:407][295]LogFbx: Display: Triangulating static mesh Object005
+[2021.08.04-08.11.03:413][295]LogStaticMesh: Building static mesh kyr_house_1...
+[2021.08.04-08.11.03:417][295]LogStaticMesh: Built static mesh [0.00s] /Game/koyerim/kyr_house_1.kyr_house_1
+[2021.08.04-08.11.03:423][295]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.11.03:497][295]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\team_house\kyr_house_2.fbx)
+[2021.08.04-08.11.03:533][295]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\team_house\kyr_house_2.fbx
+[2021.08.04-08.11.03:537][295]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.11.03:538][295]LogFbx: Display: Triangulating static mesh Object002
+[2021.08.04-08.11.03:542][295]LogStaticMesh: Building static mesh kyr_house_2...
+[2021.08.04-08.11.03:547][295]LogStaticMesh: Built static mesh [0.01s] /Game/koyerim/kyr_house_2.kyr_house_2
+[2021.08.04-08.11.03:552][295]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.11.03:557][295]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\team_house\kyr_house_3.fbx)
+[2021.08.04-08.11.03:566][295]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\team_house\kyr_house_3.fbx
+[2021.08.04-08.11.03:572][295]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.11.03:573][295]LogFbx: Display: Triangulating static mesh Box147
+[2021.08.04-08.11.03:576][295]LogStaticMesh: Building static mesh kyr_house_3...
+[2021.08.04-08.11.03:580][295]LogStaticMesh: Built static mesh [0.00s] /Game/koyerim/kyr_house_3.kyr_house_3
+[2021.08.04-08.11.03:584][295]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.11.03:619][295]LogSlate: Took 0.001104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.04-08.11.05:128][459]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.11.05:136][459]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.11.10:222][990]LogActorFactory: Actor Factory created kyr_house_1
+[2021.08.04-08.11.12:186][211]LogActorFactory: Actor Factory created kyr_house_1
+[2021.08.04-08.11.19:739][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.04-08.11.20:812][  4]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.04-08.11.20:837][  4]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/koyerim/kyr_house_3.kyr_house_3
+	Asset Name: /Game/koyerim/TexturesCom_PlywoodNew0027_1_seamless_S.TexturesCom_PlywoodNew0027_1_seamless_S
+	Asset Name: /Game/koyerim/kyr_house_2.kyr_house_2
+	Asset Name: /Game/koyerim/kyr_house_1.kyr_house_1
+[2021.08.04-08.11.21:377][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.04-08.11.21:382][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.08.04-08.11.21:386][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.04-08.14.50:872][354]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.04-08.14.50:888][354]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.04-08.14.55:229][872]LogContentBrowser: Attempting asset rename: NewFolder -> house
+[2021.08.04-08.14.55:229][872]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.04-08.15.07:667][975]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\team_house\kyr_house_2.fbx)
+[2021.08.04-08.15.07:678][975]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\team_house\kyr_house_2.fbx
+[2021.08.04-08.15.07:684][975]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.15.10:347][975]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-08.15.10:365][975]LogFbx: Display: Triangulating static mesh Object002
+[2021.08.04-08.15.10:369][975]LogStaticMesh: Building static mesh kyr_house_2...
+[2021.08.04-08.15.10:375][975]LogStaticMesh: Built static mesh [0.01s] /Game/house/kyr_house_2.kyr_house_2
+[2021.08.04-08.15.10:375][975]LogStaticMesh: Warning: kyr_house_2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.08.04-08.15.10:375][975]LogStaticMesh: Warning: kyr_house_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.08.04-08.15.10:379][975]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.15.10:379][975]FBXImport: Warning: kyr_house_2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.08.04-08.15.10:379][975]FBXImport: Warning: kyr_house_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.08.04-08.15.10:446][975]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\team_house\kyr_house_3.fbx)
+[2021.08.04-08.15.10:481][975]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\team_house\kyr_house_3.fbx
+[2021.08.04-08.15.10:486][975]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.15.10:486][975]LogFbx: Display: Triangulating static mesh Box147
+[2021.08.04-08.15.10:490][975]LogStaticMesh: Building static mesh kyr_house_3...
+[2021.08.04-08.15.10:494][975]LogStaticMesh: Built static mesh [0.00s] /Game/house/kyr_house_3.kyr_house_3
+[2021.08.04-08.15.10:498][975]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.15.10:502][975]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\team_house\kyr_house_1.fbx)
+[2021.08.04-08.15.10:513][975]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\team_house\kyr_house_1.fbx
+[2021.08.04-08.15.10:517][975]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.15.10:518][975]LogFbx: Display: Triangulating static mesh Object005
+[2021.08.04-08.15.10:521][975]LogStaticMesh: Building static mesh kyr_house_1...
+[2021.08.04-08.15.10:525][975]LogStaticMesh: Built static mesh [0.00s] /Game/house/kyr_house_1.kyr_house_1
+[2021.08.04-08.15.10:530][975]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.15.12:112][143]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.15.12:120][143]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.15.18:077][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.04-08.15.18:262][794]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap923DA673449CD85A6D8667B4AAAC1C95.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.04-08.15.18:286][794]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.08.04-08.15.18:286][794]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.04-08.15.31:392][126]LogActorFactory: Actor Factory created kyr_house_3
+[2021.08.04-08.15.32:390][242]LogActorFactory: Actor Factory created kyr_house_3
+[2021.08.04-08.15.38:394][929]LogActorFactory: Actor Factory created kyr_house_2
+[2021.08.04-08.15.42:561][419]LogActorFactory: Actor Factory created kyr_house_2
+[2021.08.04-08.16.05:265][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_3)
+[2021.08.04-08.16.05:980][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box001)
+[2021.08.04-08.16.10:401][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_3)
+[2021.08.04-08.16.11:149][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_2)
+[2021.08.04-08.16.17:105][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_2)
+[2021.08.04-08.16.17:631][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_3)
+[2021.08.04-08.16.18:581][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_2)
+[2021.08.04-08.16.25:087][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_2)
+[2021.08.04-08.16.30:170][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box001)
+[2021.08.04-08.16.31:314][210]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.04-08.16.32:034][294]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.04-08.16.35:016][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_3)
+[2021.08.04-08.16.35:889][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_2)
+[2021.08.04-08.16.38:878][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box001)
+[2021.08.04-08.17.33:796][ 49]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/house/kyr_house_2.kyr_house_2
+[2021.08.04-08.17.34:423][ 49]LogRenderer: Reallocating scene render targets to support 1912x920 Format 10 NumSamples 1 (Frame:1).
+[2021.08.04-08.17.34:423][ 49]LogSlate: Took 0.001511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.04-08.17.35:999][212]Cmd: TRANSACTION UNDO
+[2021.08.04-08.17.35:999][212]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.04-08.17.37:246][290]LogSlate: Window 'kyr_house_2' being destroyed
+[2021.08.04-08.17.37:260][290]LogSlate: Window 'kyr_house_2' being destroyed
+[2021.08.04-08.17.37:262][290]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-08.17.37:263][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-08.18.41:217][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box001)
+[2021.08.04-08.18.48:757][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_2)
+[2021.08.04-08.19.03:409][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box001)
+[2021.08.04-08.21.13:052][778]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\team_house\kyr_house_full.fbx)
+[2021.08.04-08.21.13:060][778]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\team_house\kyr_house_full.fbx
+[2021.08.04-08.21.13:065][778]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.04-08.21.15:421][778]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.04-08.21.15:437][778]LogStaticMesh: Building static mesh kyr_house_full...
+[2021.08.04-08.21.15:445][778]LogStaticMesh: Built static mesh [0.01s] /Game/house/kyr_house_full.kyr_house_full
+[2021.08.04-08.21.15:446][778]LogStaticMesh: Warning: kyr_house_full has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.08.04-08.21.15:447][778]LogStaticMesh: Warning: kyr_house_full has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.08.04-08.21.15:451][778]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.04-08.21.15:451][778]FBXImport: Warning: kyr_house_full has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.08.04-08.21.15:451][778]FBXImport: Warning: kyr_house_full has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.08.04-08.21.17:053][931]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.21.17:060][931]LogSlate: Window 'Message Log' being destroyed
+[2021.08.04-08.21.17:808][994]LogActorFactory: Actor Factory created kyr_house_full
+[2021.08.04-08.21.18:441][ 65]LogActorFactory: Actor Factory created kyr_house_full
+[2021.08.04-08.21.19:397][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wb_1_Box001)
+[2021.08.04-08.21.21:648][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.04-08.21.21:846][424]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap9EDAE49E4F4B4B9201E32EA9BC99A64B.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.04-08.21.21:870][424]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.08.04-08.21.21:870][424]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.04-08.21.50:746][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_full)
+[2021.08.04-08.21.56:505][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (kyr_house_full)
+[2021.08.04-08.21.58:191][731]Cmd: DELETE
+[2021.08.04-08.21.58:191][731]Cmd: ACTOR DELETE
+[2021.08.04-08.21.58:197][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.04-08.21.58:202][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.08.04-08.21.58:205][731]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.08.04-08.21.59:839][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.04-08.22.00:022][921]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap6D86D2DC403E56F5B73272B967439E43.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.04-08.22.00:041][921]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.08.04-08.22.00:041][921]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.04-08.26.40:750][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.04-08.26.40:932][670]LogSavePackage: Moving 'D:/git/koyerim/medieval_castle/medieval_castle/Saved/ThirdPersonExampleMap8C35375941BBCD4F774A26A9954CB906.tmp' to 'D:/git/koyerim/medieval_castle/medieval_castle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.04-08.26.40:951][670]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.08.04-08.26.40:951][670]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
